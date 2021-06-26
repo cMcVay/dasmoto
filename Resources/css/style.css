@@ -1,0 +1,8 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("Resources/pattern.webp"); 
+}
